@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering [Limbajul Tău: Python/Java/Node] backend fundamentals.<br><br>👯 I’m looking to collaborate on hackathons or small team projects.<br><br>🤝 I’m looking for help with deploying apps to the cloud (AWS/Heroku).<br><br>🌱 I’m currently learning Data Structures and Algorithms.<br><br>💬 Ask me about my journey from "Hello World" to building APIs.<br><br>⚡ Fun fact I assume it's a DNS problem until proven otherwise.
+🔭 I’m currently working on mastering python and Go backend fundamentals.<br><br>👯 I’m looking to collaborate on hackathons or small team projects.<br><br>🤝 I’m looking for help with deploying apps to the cloud (AWS/Heroku).<br><br>🌱 I’m currently learning Data Structures and Algorithms.<br><br>💬 Ask me about my journey from "Hello World" to building APIs.<br><br>⚡ Fun fact I assume it's a DNS problem until proven otherwise.
 
 
 ## 🌐 Socials:
